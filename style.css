@@ -1,0 +1,36 @@
+h1{
+    margin: 2rem;
+}
+li{
+    list-style:none;
+    margin-left: 2rem;
+}
+
+.footer>div{
+    background-color: rgb(11, 11, 11);
+    font-size: 20px;
+    color: rgb(212, 212, 240);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+a:link , a:visited{
+    color: rgb(11, 11, 11);
+}
+a:hover{
+    color: blanchedalmond;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    margin-right: 2rem;
+}
+.inLine{
+    display: flex;
+    text-align: center;
+    margin: 1rem;
+}
+a{
+    text-decoration: no;
+}
